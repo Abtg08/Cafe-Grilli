@@ -13,4 +13,8 @@ Whether you're a cafe owner looking to create a new website, or a web developer 
 
   <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
 
+### Demo Screeshots
+
+![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 </div>
