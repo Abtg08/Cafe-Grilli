@@ -11,6 +11,6 @@ The repository contains all the necessary files and assets to build and deploy t
 
 Whether you're a cafe owner looking to create a new website, or a web developer looking for a customizable landing page template, this repository provides a solid starting point for creating an effective and engaging online presence for Cafe Grilli!
 
-  <a href="(https://abtg08.github.io/Cafe-Grilli/)"><strong>➥ Live Demo</strong></a>
+  <a href="https://abtg08.github.io/Cafe-Grilli/"><strong>➥ Live Demo</strong></a>
 
 </div>
